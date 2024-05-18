@@ -73,7 +73,7 @@ function Header() {
                 <SidebarRow icon={ThumbUp} title="Likes Videos" />
                 <SidebarRow icon={ExpandMoreOutlined} title="Show more" />
                 <hr/>
-                <h4 className = "sidebar-heading">SUBSCRIPIONS</h4>
+                <h4 className = "sidebar_heading">SUBSCRIPTIONS</h4>
             </div>
         </div>
 
