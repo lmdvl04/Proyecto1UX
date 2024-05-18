@@ -35,6 +35,7 @@ import Help from "@material-ui/icons/Help";
 import Feedback from "@material-ui/icons/Feedback";
 import SidebarRow from "./components/SidebarRow";
 import "./Sidebar.css";
+import SubscriptionRow from './components/SubscriptionRow';
 function Header() {
     return (
 
@@ -72,8 +73,39 @@ function Header() {
                 <SidebarRow icon={WatchLater} title="Watch Later" />
                 <SidebarRow icon={ThumbUp} title="Likes Videos" />
                 <SidebarRow icon={ExpandMoreOutlined} title="Show more" />
+                <hr />
+                <h4 className="sidebar-heading">SUBSCRIPTIONS</h4>
+                <SubscriptionRow img="https://yt3.googleusercontent.com/wp-YrJ2bHsq4jKC1CLqzMRmaUhb8Iuk1V1REPTBUwxhchHpPrHCIO27bhQrzFzusHLRarepJQg=s160-c-k-c0x00ffffff-no-rj" name="Taylor Swift" />
+                <SubscriptionRow img="https://yt3.googleusercontent.com/tyLW5LsJGwr4ViM30OeYbuLcu_MXfpRzP8y-X9_aKfTNJeMFHmnNbPyxxhaFDA9NRgwEu9mT-g=s160-c-k-c0x00ffffff-no-rj" name="Formula 1" />
+                <SubscriptionRow img="https://yt3.googleusercontent.com/zcaO7Wc18UjwVyFywKOhmKM75qIuw7-Q6tp-icqWDcM3xJSVkl5oHibPmZdYO-H40Oe6wfHlsw=s160-c-k-c0x00ffffff-no-rj" name="FC Bayern Munich" />
+                <SubscriptionRow img="https://yt3.googleusercontent.com/thnzkriwUD98vyhpBpL9VWKVC8S172K84W8VOPwrdUOmXpadThVRv6RRnlIgS3CRpnRjGz6ZOw=s160-c-k-c0x00ffffff-no-rj" name="Vogue" />
+                <SubscriptionRow img="https://yt3.googleusercontent.com/ytc/AIdro_kZJNoir4Dx1cfFwBEkRCJA5iVJmx85h6zi1LmIBHS2-FM=s160-c-k-c0x00ffffff-no-rj" name="Luisito Comunica" />
+
+                <SidebarRow icon={ExpandMoreOutlined} title="show more" />
+
+                <hr />
+                <h4 className="sidebar-heading">MORE ON YOUTUBE </h4>
+                <SidebarRow icon={YouTube} title="Youtube Premium" />
+                <SidebarRow icon={Theaters} title="Movies" />
+                <SidebarRow icon={SportsEsports} title="Gaming" />
                 <hr/>
-                <h4 className = "sidebar-heading">SUBSCRIPIONS</h4>
+                <SidebarRow icon={Settings} title="Settings" />
+                <SidebarRow icon={Flag} title="Report History" />
+                <SidebarRow icon={Help} title="Help" />
+                <SidebarRow icon={Feedback} title="Send Feedback" />
+                <hr></hr>
+                <div className= "footer">
+                    <p>About &nbsp; Press &nbsp; Copyright</p>
+                    <p>Contact us &nbsp; Creators</p>
+                    <p>Advertise &nbsp; Developers </p>
+                    <br/>
+                    <p>Terms &nbsp; Privacy &nbsp; Policy & Safety</p>
+                    <p>How youtube works</p>
+                    <p>Test new features</p>
+                    <br/>
+                    <p style= {{color : "rgb(142,142,142"}}> 2021 Google LLC</p>
+
+                </div>
             </div>
         </div>
 

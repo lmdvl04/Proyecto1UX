@@ -7,12 +7,12 @@
 .channelLogo{
     height: 24px;
     width: 24px;
-    border-radius:21px;
+    border-radius:12px;
     object-fit:contain;
     margin-right: 15px;
 
 }
-.liveImg{
+.liveImg{  
     height:18px;
     width:18px
 }
@@ -25,5 +25,10 @@
 .left{
     flex: 0.83;
     display: flex;
+    align-items: center;
+}
+.right{
+    flex: 0.17;
+    display:flex;
     align-items: center;
 }

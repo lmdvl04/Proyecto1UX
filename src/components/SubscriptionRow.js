@@ -1,6 +1,7 @@
 import React from 'react'
 import "./SubscriptionRow.css"
-import Live from "./live.png";
+//import Live from "./ytLogo.png";
+
 function SubscriptionRow(props) {
     return (
         <div className="subscriptionRow">
@@ -10,7 +11,7 @@ function SubscriptionRow(props) {
 
             </div>
             <div className="right">
-                <img className="liveImg" src={Live} />
+                {/* <img className="liveImg" src={Live} /> */}
 
             </div>
         </div>
