@@ -1,6 +1,7 @@
 .parent_header{
     position:sticky;
     top:0;
+    z-index: 60;
 }
 .sidebar{
     width: 16%;
