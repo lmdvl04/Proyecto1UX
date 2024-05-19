@@ -62,3 +62,19 @@
     margin-left:20px;
     color: rgb(83,83,83) !important;
 }
+@media (max-width: 768px) { 
+    .header__right {
+        display: none;
+    }
+
+    
+
+    .header__middle {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .SearchInput {
+        width: 100%;
+    }
+}

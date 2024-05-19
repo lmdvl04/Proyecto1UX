@@ -46,15 +46,7 @@ function Tags() {
             <div className="miniTag">
                 Interface
             </div>
-            <div className="miniTag">
-                Computer
-            </div>
-            <div className="miniTag">
-                Cartoons
-            </div>
-            <div className="miniTag">
-                Watched
-            </div>
+            
             <NavigateNext className= "next"/>
 
         </div>

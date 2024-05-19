@@ -4,6 +4,7 @@
     height: 20px;
     width: 192px;
     padding: 10px 20px;
+     transition: background-color 0.3s ease;
 }
 
 .sidebarRow_icon {
@@ -21,3 +22,4 @@
     background-color:lightgray;
     cursor:pointer;
 }
+
