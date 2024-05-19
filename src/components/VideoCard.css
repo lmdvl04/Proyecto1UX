@@ -1,11 +1,14 @@
 .videoCard{
     width: 295px;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
     position: relative;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 .videoImg{
     height: 162px;
     width: 295px;
+    border-radius: 7px;
     margin-bottom: 0;
 }
 .videoData{

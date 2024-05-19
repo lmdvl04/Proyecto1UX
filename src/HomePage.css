@@ -1,6 +1,12 @@
+
 .homepage{
   background-color: rgb(243,243,243);  
   margin-left: 16%;
   display: flex;
   flex-wrap: wrap;
+}
+
+.video-card-container {
+  display: flex;
+  flex-direction: column;
 }

@@ -1,0 +1,50 @@
+.Short{
+    width: 179px;
+    margin-bottom: 10px;
+    position: relative;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.ShortFoto{
+    height: 295px;
+    width: 179px;
+    border-radius: 7px;
+    margin-bottom: 0;
+}
+.ShortData{
+    display: flex;
+    padding-top: 10px;
+}
+.ShortCosas{
+    margin-left: 10px;
+}
+.ShortCosas h5{
+    margin-top: -5px;
+    color: rgb(26,26,26)
+    
+}
+.ShortCosas p{
+    margin-top: -18px;
+    font-size: 14px;
+    color: rgb(122,122,122);
+    font-weight: 550;
+    margin-bottom: 15px;
+}
+.MoreVert{
+    position: absolute;
+    top:10px;
+    background-color: black;
+    color: white!important;
+    right: 10px;
+    font-size: 20px!important;
+    padding: 4px 4px;
+    opacity: 0.8;
+    align-items: center;
+    border-radius: 3px;
+    display: none;
+}
+.Short:hover .MoreVert{
+    display: flex;
+    cursor: pointer;
+}
+

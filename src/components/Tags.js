@@ -11,7 +11,7 @@ function Tags() {
                 Music
             </div>
             <div className="miniTag">
-                New to you 
+                New
             </div>
             <div className="miniTag">
                 Makeup
@@ -29,13 +29,28 @@ function Tags() {
                 Mixes
             </div>
             <div className="miniTag">
-                React JS
+                ReactJS
             </div>
             <div className="miniTag">
-                Fashion Shows
+                Fashion
             </div>
             <div className="miniTag">
                 Calculus 
+            </div>
+            <div className="miniTag">
+                FIFA24
+            </div>
+            <div className="miniTag">
+                Baseball
+            </div>
+            <div className="miniTag">
+                Interface
+            </div>
+            <div className="miniTag">
+                Computer
+            </div>
+            <div className="miniTag">
+                Cartoons
             </div>
             <div className="miniTag">
                 Watched
