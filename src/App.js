@@ -9,9 +9,6 @@ function App() {
     <div className="App">
      <Header/>
      <HomePage/>
-     <div style={{marginLeft:"600px",marginTop:"200px"}}> 
-     <VideoCard/>
-     </div>
     </div>
   );
 }
