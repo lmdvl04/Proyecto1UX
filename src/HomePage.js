@@ -22,7 +22,7 @@ function HomePage() {
                 duration="4:08"
                 channelName="Lil Baby Official"
                 channelLogo="https://yt3.googleusercontent.com/HGhobSVdjpcp6CLqfFDUMbsDQJYOve9nGdTaLvBhaBfxiwuDskoDLQGwqE53usS82KSoIqvazw=s160-c-k-c0x00ffffff-no-rj"
-                title="Life Goes On"
+                title="Life Goes On ft. Lil Uzi Vert and Gunna"
                 views="58 M Views"
                 time="6 years ago"
             />
@@ -45,15 +45,6 @@ function HomePage() {
                 time="1 year ago"
             />
             <VideoCard
-                thumbnail="https://i.ytimg.com/vi/-ibLmPuojmw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2eiC48OKmxJCgm_ljTxA9sHtXbw"
-                duration="4:46"
-                channelName="W2S"
-                channelLogo="https://yt3.ggpht.com/ytc/AIdro_mFdjrVh86MFo3e5bl5H1octpc9l88mnVjpL6gxdGMkUWE=s68-c-k-c0x00ffffff-no-rj"
-                title="SIDEMEN CROSSBAR CHALLENGE"
-                views="72 M Views"
-                time="8 years ago"
-            />
-            <VideoCard
                 thumbnail="https://i.ytimg.com/vi/2HobcLL-nl0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO2j3mXayzeFNh99Y_nw0W7gMMoA"
                 duration="13:58"
                 channelName="diana gaby"
@@ -63,20 +54,11 @@ function HomePage() {
                 time="6 months ago"
             />
             <VideoCard
-                thumbnail="https://i.ytimg.com/vi/G4VZsu3x1hw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGj0LMuSU-ZkdiHtxkPigtLiyg-g"
-                duration="17:08"
-                channelName="Luisito Comunica"
-                channelLogo="https://yt3.ggpht.com/ytc/AIdro_kZJNoir4Dx1cfFwBEkRCJA5iVJmx85h6zi1LmIBHS2-FM=s68-c-k-c0x00ffffff-no-rj"
-                title="Probando comida callejera en HONDURAS"
-                views="8,8 M Views"
-                time="2 years ago"
-            />
-            <VideoCard
                 thumbnail="https://i.ytimg.com/vi/tjxIz7bOzrM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgYSg7MA8=&rs=AOn4CLCaGVLsDSNSlz1JCyRbS00pNaPCsQ"
                 duration="7:49"
                 channelName="Snoopy y Sus Amigos"
                 channelLogo="https://yt3.ggpht.com/ytc/AIdro_lL7jWIFcwI9HiQoRo0pcmOluQfQTdxJGyzoBK8dArsZQs=s68-c-k-c0x00ffffff-no-rj"
-                title="El jjuego de beisbol | Episodio 19 | Snoopy y sus amigos"
+                title="El juego de beisbol | Episodio 19 | Snoopy y sus amigos"
                 views="123 K Views"
                 time="2 years ago"
             />
@@ -99,15 +81,6 @@ function HomePage() {
                 time="11 months ago"
             />
             <VideoCard
-                thumbnail="https://i.ytimg.com/vi/XFR7v5ix5hU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChFbPZlthjCaxoHJXlUBlYkZ9UrA"
-                duration="4:16"
-                channelName="Madison Beer"
-                channelLogo="https://yt3.ggpht.com/rnvdWtVt0jqvpsBAEVusTgGwFLQZL6aVV9qyL677TgRwRbBR2b_Iqn-fJK3iUctkriJ3ItGEDw=s88-c-k-c0x00ffffff-no-rj"
-                title="Madison Beer - Make You Mine(Official Music Video)"
-                views="17 M Views"
-                time="3 weeks ago"
-            />
-            <VideoCard
                 thumbnail="https://i.ytimg.com/vi/e-ORhEE9VVg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATcM-CoX_evHrM_CbwFCXhf71eeg"
                 duration="4:33"
                 channelName="Taylor Swift"
@@ -121,7 +94,7 @@ function HomePage() {
                 duration="2:13"
                 channelName="King Von"
                 channelLogo="https://yt3.ggpht.com/ytc/AIdro_l8oMhulJ9DodBwa8D3ai9qWBrUBOPUvU50Jgl9wTzhUQ=s88-c-k-c0x00ffffff-no-rj"
-                title="Don't Play That"
+                title="Don't Play That ft. 21 Savage"
                 views="367 K Views"
                 time="2 years ago"
             />
@@ -184,12 +157,6 @@ function HomePage() {
                     desc="KSI Is a Menace🤣"
                     visualizacion="21 M Views"
                     ShortChannelLogo="https://yt3.ggpht.com/qXK1mgM16EIDw6xbBS6VyXSCn52t76t9iqZUA1OZ1alMKXfqAU7KNzhy7W4OYPCv-ekA4lIb=s48-c-k-c0x00ffffff-no-rj"
-                />
-                <Short
-                    ShortFoto="https://i.ytimg.com/vi/-h8lA6e1roY/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLC789ZXVz--AL74u7obmNAu9uHoqg"
-                    desc="Cómo hacer Amigurumis de crochet paso a paso para PRINCIPIANTES tutorial #shorts"
-                    visualizacion="2,1 M Views"
-                    ShortChannelLogo="https://yt3.ggpht.com/aegtumwacR9E9KvhO5kRe9cDi0wcKr-nEA5Dy0n-u8M4PptZ2B9tWxNzNVWkXs9lmb8WLx4-=s48-c-k-c0x00ffffff-no-rj"
                 />
         </div>
 

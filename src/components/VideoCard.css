@@ -1,9 +1,9 @@
 .videoCard{
-    width: 295px;
+    width: 310px;
     margin-bottom: 10px;
     position: relative;
-    margin-right: 10px;
-    margin-left: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 .videoImg{
     height: 162px;
@@ -80,6 +80,7 @@ font: size 20px!important;
 }
 .moreIcon{
     color: rgb(131,131,131)!important;
+    margin-left: 50px;
 }
 .moreIcon:hover{
     color: rgb(83,83,83)!important;
