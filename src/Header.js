@@ -54,7 +54,6 @@ function Header() {
                 </div>
                 <div className="header__right">
                     <VideoCallIcon className="header__icons" />
-                    <AppsIcon className="header__icons" />
                     <NotificationIcon className="header__icons" />
                     <Avatar className="header__icons" scr="htps://yt3.ggpht.com/NpBI-AonCK4jgOnBE56r8QRsv8a3l3dSl7slpARb9EDUktQORWybFt7LzqxgLNsjtgNVQhv6Tng=s176-c-k-c0x00ffffff-no-rj" />
 
